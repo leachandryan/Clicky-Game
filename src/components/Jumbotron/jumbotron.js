@@ -5,7 +5,7 @@ import './jumbotron.css';
 const JumbotronPart = () => (
   <Jumbotron>
     <div className="container">
-      <h1>Street Fighter!</h1>
+      <h1>Bravely Click Away!</h1>
     </div>
   </Jumbotron>
 );

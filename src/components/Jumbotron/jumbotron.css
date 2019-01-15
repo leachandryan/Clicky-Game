@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url("https://i.gifer.com/VshN.gif");
+  background-size: cover;
+  height: 400px;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  margin-top: 20px;
+  background-color: white;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/4/46/Ryurender.png/revision/latest?cb=20170728171704",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/8/88/Zangiefrender.png/revision/latest?cb=20170728171808",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/e/ea/SKR_00.png/revision/latest?cb=20180122014111",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/6/69/Sagatclean.png/revision/latest?cb=20180812160244",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/a/a5/Jurirender.png/revision/latest?cb=20170728171238",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/3/33/Sf4charselectelfuerte.png/revision/latest?cb=20150322175043",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/a/a2/Guilerender.png/revision/latest?cb=20170728164132",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/6/62/Sf4charselectrufus.png/revision/latest?cb=20150322175437",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/b/b1/Dhalsimrender.png/revision/latest?cb=20170728164253",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/9/90/Ibukirender.png/revision/latest?cb=20170728164112",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/e/e3/Chunrender.png/revision/latest?cb=20170728163823",
+    "isClicked": false
+  },
+  {
+    "id": 12,
+    "img": "https://vignette.wikia.nocookie.net/streetfighter/images/7/71/Sf4charselectdan.png/revision/latest?cb=20150322174912",
+    "isClicked": false
+  }
+]
